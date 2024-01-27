@@ -44,7 +44,7 @@ const Header = (props) => {
   }, []);
 
   return (
-    <div className="absolute px-20 w-full  bg-gradient-to-b from-black z-10 flex justify-between">
+    <div className="absolute px-10 w-full  bg-gradient-to-b from-black z-10 flex justify-between">
       <div className="logo1">
         <img src={netflixlog} alt="NetflixLogo" className="w-44 " />
       </div>
