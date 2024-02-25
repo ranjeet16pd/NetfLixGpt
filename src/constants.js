@@ -7,4 +7,4 @@ export const options = {
   };
 
   export const IMG_CDN="https://image.tmdb.org/t/p/w500/";
-  
+  export  const OPENAI_KEY="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";
